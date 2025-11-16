@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "People, Things, Traces"
+title:
 permalink: /
 author_profile: true
 ---
