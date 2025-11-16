@@ -12,11 +12,11 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "People, Things, Traces"
 title_separator          : "/"
 name                     : &name "Maria Laura Flores Barba"
-description              : &description "These three elements have been a constant throughout my research as an art historian and digital humanist. This website hosts examples of my research in different fields, and traces of my thoughts while I do my work."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "This website hosts examples of my research in different fields, and traces of my thoughts while I do my work."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://marialauraflores.me # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mfloresb/people-things-traces.github.io"
+repository               : "mfloresb/people-things-traces"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,12 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Maria Laura Flores Barba"
   pronouns         : "she/her"  
-  bio              : "I am an art historian and digital humanist whose research bridges visual culture, material studies, and community-based memory work. My postdoctoral project, Rebuilding Memory, Shaping Futures, explores how testimony, mapping, and digital tools can foster historical justice, intergenerational dialogue, and collective healing in postwar El Salvador.
-"
+  bio              : "I am an art historian and digital humanist whose research bridges visual culture, material studies, and community-based memory work. My postdoctoral project, Rebuilding Memory, Shaping Futures, explores how testimony, mapping, and digital tools can foster historical justice, intergenerational dialogue, and collective healing in postwar El Salvador."
   location         : "London, CA"
   employer         : "Western University"
   uri              : "https://www.fims.uwo.ca/people/profiles/maria_laura_flores_barba.html"
-  email            : "mfloresb at uwo.ca" 
+  email            : "mfloresb@uwo.ca" 
 
   # Academic websites
   academia         : # URL
@@ -80,7 +79,7 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
-# Publication Category - The following the list of publication categories and their headings
+# Publication Category - The following is the list of publication categories and their headings
 publication_category:
   books:
     title: 'Books'
