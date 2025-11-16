@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "https://bsky.app/profile/luaramai.bsky.social" # Replace this with your Bluesky username
+  bluesky          : "luaramai.bsky.social" # Replace this with your Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
