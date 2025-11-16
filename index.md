@@ -57,33 +57,3 @@ Como mi vida cotidiana y mi investigación ocurren entre dos lenguas (el españo
 Because my daily life and research move between two languages (Spanish and English) and two worlds (the digital and the analog, as I’m also a crafter), you will find a mix of all four here. Some posts will appear in English, while others will be in Spanish, and I will do my best to make everything available in both languages.
   </p>
 </div>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const buttons = document.querySelectorAll(".lang-button");
-    const esBlocks = document.querySelectorAll(".lang-es");
-    const enBlocks = document.querySelectorAll(".lang-en");
-
-    function showLang(lang) {
-      if (lang === "es") {
-        esBlocks.forEach(el => el.style.display = "");
-        enBlocks.forEach(el => el.style.display = "none");
-      } else {
-        esBlocks.forEach(el => el.style.display = "none");
-        enBlocks.forEach(el => el.style.display = "");
-      }
-      buttons.forEach(btn => {
-        btn.classList.toggle("active", btn.dataset.lang === lang);
-      });
-    }
-
-    buttons.forEach(btn => {
-      btn.addEventListener("click", () => showLang(btn.dataset.lang));
-    });
-
-    // Default language
-    showLang("es");
-  });
-</script>
-
-
