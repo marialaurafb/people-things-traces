@@ -1,7 +1,8 @@
 ---
 layout: single
-title:
+title: "People, Things, Traces"
 permalink: /
+author_profile: true
 ---
 
 <div class="lang-toggle">
@@ -29,7 +30,7 @@ permalink: /
     Eventualmente, este sitio también enlazará a la base de datos completa que construí durante el doctorado. Mientras tanto, compartiré aquí proyectos en curso, reflexiones y otros trabajos interdisciplinarios.
 </p>
 <p>
-Como mi vida cotidiana y mi investigación ocurren entre dos lenguas (el español y el inglés), y entre dos mundos (lo digital y lo análogo porque también soy "crafter"), encontrarás una mezcla de los cuatro en este espacio. Algunas publicaciones estarán en inglés, otras en español, pero haré lo posible por que todo esté disponible en ambos idiomas.
+Como mi vida cotidiana y mi investigación ocurren entre dos lenguas (el español y el inglés) y entre dos mundos (lo digital y lo analógico porque también soy "crafter"), encontrarás una mezcla de los cuatro en este espacio. Algunas publicaciones estarán en inglés, otras en español, pero haré lo posible por que todo esté disponible en ambos idiomas.
 </p>  
 </div>
 
@@ -53,7 +54,7 @@ Como mi vida cotidiana y mi investigación ocurren entre dos lenguas (el españo
     Eventually, this website will also link to the full database I assembled during my doctorate. In the meantime, I will be sharing ongoing projects, reflections, and other interdisciplinary work.
 </p>
 <p>
-Because my daily life and research move between two languages (Spanish and English), and two worlds (the digital and the analog, as I’m also a crafter), you will find a mix of all four here. Some posts will appear in English, others in Spanish, and I will do my best to make everything available in both.
+Because my daily life and research move between two languages (Spanish and English) and two worlds (the digital and the analog, as I’m also a crafter), you will find a mix of all four here. Some posts will appear in English, while others will be in Spanish, and I will do my best to make everything available in both languages.
   </p>
 </div>
 
