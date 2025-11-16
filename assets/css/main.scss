@@ -41,3 +41,30 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* --------------------------------------------- */
+/* Custom overrides for People, Things, Traces   */
+/* --------------------------------------------- */
+
+/* Headings in pink */
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  color: #FF0066;
+}
+
+/* Active language button in pink */
+.lang-button.active {
+  background: #FF0066;
+  border-color: #FF0066;
+  color: #ffffff;
+}
+
+/* Hover state for language buttons */
+.lang-button:hover {
+  background: #ff3380;
+  color: #ffffff;
+}
