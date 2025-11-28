@@ -61,7 +61,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "@doctorluaramai"
+  instagram        : "@luaramai"
   lastfm           : # Username
   linkedin         : "Maria Laura Flores Barba"
   mastodon         : # URL
@@ -83,6 +83,8 @@ author:
 publication_category:
   books:
     title: 'Books'
+  book chapters:
+    title: 'Book Chapters'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
