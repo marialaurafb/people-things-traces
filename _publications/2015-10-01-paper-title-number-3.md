@@ -1,7 +1,7 @@
 ---
 title: "De la narrativa documental al dato estructurado: anotación semántica con Recogito en un corpus de pintores coloniales en México"
 collection: publications
-category: journal article
+category: manuscripts
 permalink: /publication/2025-Recogito
 excerpt: 
 date: 2025-12-16
