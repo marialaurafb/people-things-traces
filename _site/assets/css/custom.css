@@ -1,0 +1,27 @@
+/* Headings */
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4 {
+  color: #FF0066;
+}
+
+/* Links */
+a {
+  color: #FF0066;
+}
+a:hover {
+  color: #cc0052;
+}
+
+/* Horizontal lines, details, accents */
+hr {
+  border-top: 2px solid #FF0066;
+}
+
+/* Active EN/ES button */
+.lang-button.active {
+  background: #FF0066;
+  border-color: #FF0066;
+  color: white;
+}
